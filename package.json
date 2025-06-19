@@ -1,7 +1,7 @@
 {
   "name": "pasticceria-pro-archivio-ricette-e-food-cost",
   "private": true,
-  "version": "v0.0.4",
+  "version": "v1.0.0",
   "type": "module",
   "homepage": "https://danielezappala.github.io/pastrychef",
   "scripts": {
